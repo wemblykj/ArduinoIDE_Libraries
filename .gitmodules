@@ -1,3 +1,6 @@
 [submodule "LEDDriver"]
 	path = LEDDriver
 	url = https://github.com/wemblykj/Arduino_Lib_LEDDriver
+[submodule "Animator"]
+	path = Animator
+	url = https://github.com/wemblykj/Arduino_Lib_Animator
