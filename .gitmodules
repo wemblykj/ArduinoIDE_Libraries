@@ -4,3 +4,6 @@
 [submodule "Animator"]
 	path = Animator
 	url = https://github.com/wemblykj/Arduino_Lib_Animator
+[submodule "LLAPDispatcher"]
+	path = LLAPDispatcher
+	url = git@github.com:wemblykj/Arduino_Lib_LLAPDispatcher.git
