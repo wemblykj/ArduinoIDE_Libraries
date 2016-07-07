@@ -7,3 +7,6 @@
 [submodule "LLAPDispatcher"]
 	path = LLAPDispatcher
 	url = git@github.com:wemblykj/Arduino_Lib_LLAPDispatcher.git
+[submodule "Core"]
+	path = Core
+	url = git@github.com:wemblykj/Arduino_Lib_Core.git
